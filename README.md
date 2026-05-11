@@ -1,4 +1,4 @@
-# Parameterized 8-Bit Pipelined ALU with Golden Model Verification
+# Parameterized 8-Bit Pipelined ALU with Reference Model Verification
 
 A robust, synthesizable, and fully parameterized Arithmetic Logic Unit (ALU) designed in Verilog. This project features a dual-mode datapath (Arithmetic and Logical), a multi-cycle execution pipeline, and a highly rigorous verification environment utilizing a Golden Reference Model that achieved **>96% Statement and Branch Coverage**.
 
